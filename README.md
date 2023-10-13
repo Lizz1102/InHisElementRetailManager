@@ -1,4 +1,4 @@
-# InHisElementRetailManager
+# LizzisRetailManager
 ## Credits
 
 I've built this management system following Tim Corey's online course on YouTube:
