@@ -1,13 +1,25 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.33027.164
+VisualStudioVersion = 16.0.34114.132
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRMDataManager", "LRMDataManager\LRMDataManager.csproj", "{2E507C70-CEE9-4F1E-A899-42D017E31554}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E507C70-CEE9-4F1E-A899-42D017E31554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E507C70-CEE9-4F1E-A899-42D017E31554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E507C70-CEE9-4F1E-A899-42D017E31554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E507C70-CEE9-4F1E-A899-42D017E31554}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BBBFC97A-414F-495E-BCAD-C4D0A0188F7B}
+		SolutionGuid = {E2CE9B55-1B5A-4F39-810F-979196972F4E}
 	EndGlobalSection
 EndGlobal
