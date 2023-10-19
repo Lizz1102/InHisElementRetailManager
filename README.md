@@ -20,7 +20,7 @@ I'm building this management system for my future business custom makeover and s
 ## Special Thanks
 
 
-Huge shoutout to one of my favorite instructors Tim Corey for making [TimCo Retail Manager Course](https://www.youtube.com/playlist?list=PLLWMQd6PeGY0bEMxObA6dtYXuJOGfxSPx) available on YouTube for free, which is the primary resource followed on building this system. 
+Huge shoutout to one of my favorite instructors Tim Corey for making [TimCo Retail Manager Course](https://www.youtube.com/playlist?list=PLLWMQd6PeGY0bEMxObA6dtYXuJOGfxSPx) available on YouTube for free, which is the primary resource followed during building this system. 
 
 
 ## Additional Resources
