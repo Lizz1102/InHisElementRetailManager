@@ -7,12 +7,61 @@ I'm building this management system for my future business custom makeover and s
 #Background and Goals
 
 
-**Phase 1** - Designing and setting up a desktop app in legacy .NET Framework(4.7.2), WPF UI in MVVM architecture pattern, a database, and a Web API with authentication. Then perform a transition of this app to .NET Core 3.1. This is done to simulate the scenario of many businesses needing to migrate their existing legacy applications to a modern platform.    
+**Phase 1** - Design and setup up a desktop app in legacy .NET Framework(4.7.2), WPF UI in MVVM architecture pattern, a database, and a Web API with authentication. Then perform a transition of this app to .NET Core 3.1. This is done to simulate the scenario of many businesses needing to migrate their existing legacy applications to a modern platform.    
 
 
-**Phase 2** - Add Xamarin, Blazor, transfer the application into the Azure cloud, CI/CD, and Reporting.
+**Phase 2** - Add Xamarin, Blazor, transfer the application into the Azure cloud, CI/CD, and Reporting(TBD).
 
 **Phase 3** - Add microservices, Blazor WebAssembly PWA(TBD).
+
+
+#Phase 1 - Documentation
+
+
+**Documenting every step for future reference**
+
+
+**Initial Project**
+
+
+Build a desktop app that runs a cash register, handles inventory, and manages the entire studio. In order to allow it to grow(to sell online), add a WebAPI Layer. 
+
+
+**Initial Plan**
+
+
+Build a MVP that can be expanded to cover all the features we need over time. The first step is getting all of the major pieces set up, including:
+- Git on Azure DevOps
+- SQL Database (SSDT)
+- WebAPI with authentication
+- WPF application that can log into the API
+
+
+**Technologies**
+
+
+- ASP.NET MVC
+- .NET Core
+- WebAPI
+- SSDT
+- WPF
+- JavaScript
+- HTML/CSS
+- Authentication
+- Data Validation
+- Azure DevOps
+- Reporting
+- Logging
+- Dependency Injection
+- Design Patterns
+- Async
+- Unit Testing
+- Git
+- SOLID, Autofac
+
+
+
+
 
 ## Credits
 
