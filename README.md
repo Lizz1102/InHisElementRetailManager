@@ -66,13 +66,13 @@ Build a MVP that can be expanded to cover all the features we need over time. Th
 ## Credits
 
 
-## Special Thanks
+# Special Thanks
 
 
 Huge shoutout to one of my favorite instructors Tim Corey for making [TimCo Retail Manager Course](https://www.youtube.com/playlist?list=PLLWMQd6PeGY0bEMxObA6dtYXuJOGfxSPx) available on YouTube for free, which is the primary resource followed during building this system. 
 
 
-## Additional Resources
+# Additional Resources
 - [Windows Presentation Foundation documentation](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-7.0&WT.mc_id=dotnet-35129-website)
 - [A tour of the C# language](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 - [Swagger For .NET MVC Web API]()
