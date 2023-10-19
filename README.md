@@ -4,7 +4,7 @@
 I'm building this management system for my future business custom makeover and styling studio - InHerElement. The purpose of this project is to build a reusable management software using best practices and clean code besides revisiting/learning advanced ASP.NET, and C# topics in depth. I'm primarily following Mr. Tim Corey's Retail Manager course, and customizing on top of it to fit my business's requirements.
 
 
-#Background and Goals
+## Background and Goals
 
 
 **Phase 1** - Design and setup up a desktop app in legacy .NET Framework(4.7.2), WPF UI in MVVM architecture pattern, a database, and a Web API with authentication. Then perform a transition of this app to .NET Core 3.1. This is done to simulate the scenario of many businesses needing to migrate their existing legacy applications to a modern platform.    
@@ -15,7 +15,7 @@ I'm building this management system for my future business custom makeover and s
 **Phase 3** - Add microservices, Blazor WebAssembly PWA(TBD).
 
 
-#Phase 1 - Documentation
+## Phase 1 - Documentation
 
 
 **Documenting every step for future reference**
