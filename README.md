@@ -48,6 +48,7 @@ Build an MVP that can be expanded to cover all the features we need over time. T
 
 
 - ASP.NET MVC
+- .NET Framework 
 - .NET Core
 - WebAPI
 - SSDT
@@ -57,6 +58,7 @@ Build an MVP that can be expanded to cover all the features we need over time. T
 - Authentication
 - Data Validation
 - Azure DevOps
+- CI/CD
 - Reporting
 - Logging
 - Dependency Injection
