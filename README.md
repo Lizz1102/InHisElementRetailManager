@@ -3,11 +3,19 @@
 
 I'm building this management system for my future business custom makeover and styling studio - InHerElement. The purpose of this project is to build a reusable management software using best practices and clean code besides revisiting/learning advanced ASP.NET, and C# topics in depth. I'm primarily following Mr. Tim Corey's Retail Manager course, and customizing on top of it to fit my business's requirements.
 
+## Table of Contents
 
+- [Background](#Background and Goals)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [TODO](#to-do)
+
+  
 ## Background and Goals
 
 
-**Phase 1** - Design and set up a desktop app in legacy .NET Framework(4.7.2), WPF UI in MVVM architecture pattern, a database, and a Web API with authentication. Then perform a transition of this app to .NET Core 3.1. This is done to simulate the scenario of many businesses needing to migrate their existing legacy applications to a modern platform.    
+**Phase 1** - Design and set up a desktop app in legacy .NET Framework(4.7.2), WPF UI in MVVM architecture pattern, a database, and a Web API with authentication. Then perform a transition of this app to .NET Core 3.1. I'm doing this to simulate the scenario of many businesses needing to migrate their existing legacy applications to a modern platform.    
 
 
 **Phase 2** - Add Xamarin, Blazor, transfer the application into the Azure cloud, CI/CD, and Reporting(TBD).
@@ -78,7 +86,12 @@ Build an MVP that can be expanded to cover all the features we need over time. T
 - Using Caliburn Micro as the MVVM framework system
 
 
+## TODO
 
+- [ ] Add project architecture 
+- [ ] Add screenshot/video of demo 
+- [ ] Refine background and goal section (Add separate 1. non-technical 2. technical description) 
+- [ ] Plan future Improvement 
 
 
 ## Credits
