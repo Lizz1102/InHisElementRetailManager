@@ -85,7 +85,14 @@ Build an MVP that can be expanded to cover all the features we need over time. T
 - Using Caliburn Micro as the MVVM framework system
 
 
+**Add Dependency Injection into the WPF Project**
+
+
+- Using Simple Container. Usually, Autofac is preferred for implementing Inversion of Control, but in this scenario, it's easier to do with the Simple Container DI system as it comes bundled in Caliburn Micro and is simpler to use in WPF apps.
+
+
 ## TODOs
+
 
 - [ ] Add Installation instructions 
 - [ ] Add project architecture 
