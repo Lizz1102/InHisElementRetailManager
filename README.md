@@ -7,7 +7,7 @@ I'm building this management system for my future business custom makeover and s
 
 - [Background and Goals](#background-and-goals)
 - [Phase 1 Documentation](#phase-1-documentation)
-- [TODO](#todo)
+- [TODOs](#todos)
 - [Credits](#credits)
 
   
@@ -85,7 +85,7 @@ Build an MVP that can be expanded to cover all the features we need over time. T
 - Using Caliburn Micro as the MVVM framework system
 
 
-## TODO
+## TODOs
 
 - [ ] Add Installation instructions 
 - [ ] Add project architecture 
