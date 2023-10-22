@@ -87,6 +87,7 @@ Build an MVP that can be expanded to cover all the features we need over time. T
 
 ## TODO
 
+- [ ] Add Installation instructions 
 - [ ] Add project architecture 
 - [ ] Add screenshot/video of demo 
 - [ ] Refine background and goal section (Add separate 1. non-technical 2. technical description) 
