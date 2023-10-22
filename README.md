@@ -14,6 +14,9 @@ I'm building this management system for my future business of custom makeover an
 ## Background and Goals
 
 
+**Overall Goal - Draft**
+ 
+
 **Phase 1** - Design and set up a desktop app in legacy .NET Framework(4.7.2), WPF UI in MVVM architecture pattern, a database, and a Web API with authentication. Then perform a transition of this app to .NET Core 3.1. I'm doing this to simulate the scenario of many businesses needing to migrate their existing legacy applications to a modern platform.    
 
 
@@ -91,6 +94,10 @@ Build an MVP that can be expanded to cover all the features we need over time. T
 
 
 - Using Simple Container. Usually, Autofac is preferred for implementing Inversion of Control, but in this scenario, it's easier to do with the Simple Container DI system as it comes bundled in Caliburn Micro and is simpler to use in WPF apps.
+
+
+**Planning the Register of the MVP**
+Build a system for selling retail items. WPF frontend is going to act as a cash register. First design a simple cash register system then expand on in future iterations. not a self-service(yet), consider cashier in design. Agile/Sprint - prepare an MVP with basic functionalities. In sprint 1, we've built a WPF front end, a Web API, and a SQL DB. The goal is to hand the user a usable app with the most important piece. The core of our application is selling items to users. Giving the users a web interface to buy stuff on their own, a touchscreen product for self-service in the store, or machine-to-machine API calls - these are for later phases.     
 
 
 ## TODOs
