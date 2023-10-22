@@ -5,11 +5,10 @@ I'm building this management system for my future business custom makeover and s
 
 ## Table of Contents
 
-- [Background and Goals](#Background-and-Goals)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Background and Goals](#background-and-goals)
+- [Phase 1 Documentation](#phase-1-documentation)
 - [TODO](#todo)
+- [Credits](#credits)
 
   
 ## Background and Goals
@@ -23,7 +22,7 @@ I'm building this management system for my future business custom makeover and s
 **Phase 3** - Add microservices, Blazor WebAssembly PWA(TBD).
 
 
-## Phase 1 - Documentation
+## Phase 1 Documentation
 
 
 **Documenting every step for future reference**
