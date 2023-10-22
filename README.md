@@ -1,7 +1,7 @@
 # Lizzis Retail Manager
 
 
-I'm building this management system for my future business custom makeover and styling studio - InHerElement. The purpose of this project is to build a reusable management software using best practices and clean code besides revisiting/learning advanced ASP.NET, and C# topics in depth. I'm primarily following Mr. Tim Corey's Retail Manager course, and customizing on top of it to fit my business's requirements.
+I'm building this management system for my future business of custom makeover and styling studio - **_InHerElement_**. The purpose of this project is to build a reusable management software using best practices and clean code besides revisiting/learning advanced ASP.NET, and C# topics in depth. I'm primarily following Mr. Tim Corey's Retail Manager course, and customizing on top of it to fit my business's requirements.
 
 ## Table of Contents
 
