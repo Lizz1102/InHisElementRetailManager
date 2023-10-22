@@ -5,7 +5,7 @@ I'm building this management system for my future business custom makeover and s
 
 ## Table of Contents
 
-- [Background](#Background and Goals)
+- [Background and Goals](#Background-and-Goals)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
