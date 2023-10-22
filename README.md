@@ -9,7 +9,7 @@ I'm building this management system for my future business custom makeover and s
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [TODO](#to-do)
+- [TODO](#todo)
 
   
 ## Background and Goals
