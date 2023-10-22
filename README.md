@@ -7,7 +7,7 @@ I'm building this management system for my future business custom makeover and s
 ## Background and Goals
 
 
-**Phase 1** - Design and setup up a desktop app in legacy .NET Framework(4.7.2), WPF UI in MVVM architecture pattern, a database, and a Web API with authentication. Then perform a transition of this app to .NET Core 3.1. This is done to simulate the scenario of many businesses needing to migrate their existing legacy applications to a modern platform.    
+**Phase 1** - Design and set up a desktop app in legacy .NET Framework(4.7.2), WPF UI in MVVM architecture pattern, a database, and a Web API with authentication. Then perform a transition of this app to .NET Core 3.1. This is done to simulate the scenario of many businesses needing to migrate their existing legacy applications to a modern platform.    
 
 
 **Phase 2** - Add Xamarin, Blazor, transfer the application into the Azure cloud, CI/CD, and Reporting(TBD).
@@ -30,7 +30,7 @@ Build a desktop app that runs a cash register, handles inventory, and manages th
 **Initial Plan**
 
 
-Build a MVP that can be expanded to cover all the features we need over time. The first step is getting all of the major pieces set up, including:
+Build an MVP that can be expanded to cover all the features we need over time. The first step is getting all of the major pieces set up, including:
 - Git on Azure DevOps
 - SQL Database (SSDT)
 - WebAPI with authentication
@@ -58,6 +58,24 @@ Build a MVP that can be expanded to cover all the features we need over time. Th
 - Unit Testing
 - Git
 - SOLID, Autofac
+
+
+**Create WebAPI with Authentication**
+
+
+**Configure Swagger**
+**Set up Database**
+
+
+- SSDT
+- Start building SQL Server Database
+
+  
+**Set up Frontend Project**
+
+
+- WPF with MVVM framework 
+- Using Caliburn Micro as the MVVM framework system
 
 
 
