@@ -28,7 +28,7 @@ I'm building this management system for my future business of custom makeover an
 ## Phase 1 Documentation
 
 
-**Documenting every step for future reference**
+**Documenting every step for my future reference**
 
 
 **Initial Project**
