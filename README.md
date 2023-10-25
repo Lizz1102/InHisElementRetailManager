@@ -101,6 +101,8 @@ Build an MVP that can be expanded to cover all the features we need over time. T
 
 Build a system for selling retail items. WPF frontend is going to act as a cash register. First design a simple cash register system then expand on in future iterations. not a self-service(yet), consider cashier in design. Agile/Sprint - prepare an MVP with basic functionalities. In sprint 1, we've built a WPF front end, a Web API, and a SQL DB. The goal is to hand the user a usable app with the most important piece. The core of our application is selling items to users. Giving the users a web interface to buy stuff on their own, a touchscreen product for self-service in the store, or machine-to-machine API calls - these are for later phases.  
 No barcode scanner - future version 
+
+
 Note: Refer to the design document for ERD, Screen designs(Not uploaded in GitHub) 
 
 
