@@ -1,4 +1,4 @@
-# Liza's Retail Manager
+# Liza's Retail Management System
 
 
 I'm building this management system for my future business of custom makeover and styling studio - **_InHerElement_**. The purpose of this project is to build a reusable management software using best practices and clean code besides revisiting/learning advanced ASP.NET, and C# topics in depth. I'm primarily following [Mr. Tim Corey's Retail Manager course](https://www.youtube.com/playlist?list=PLLWMQd6PeGY0bEMxObA6dtYXuJOGfxSPx) and [Microsoft's .NET documentation](https://learn.microsoft.com/en-us/dotnet/), and customizing on top of it to fit my business's requirements.
